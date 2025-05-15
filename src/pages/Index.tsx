@@ -160,9 +160,9 @@ const Index = () => {
               <div className="absolute -z-10 -left-4 -top-4 w-64 h-64 bg-green-200 rounded-full opacity-50 blur-3xl"></div>
               <div className="absolute -z-10 -right-8 -bottom-8 w-72 h-72 bg-blue-200 rounded-full opacity-50 blur-3xl"></div>
               <img
-                src="https://cdn.poehali.dev/files/f1d3bd13-7ac9-4844-9d56-0dcf1431f1e8.png"
-                alt="Природный ландшафт"
-                className="w-full h-auto rounded-xl shadow-xl"
+                src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&h=500&q=80"
+                alt="Устойчивый образ жизни"
+                className="w-full h-auto rounded-xl shadow-xl object-cover"
               />
             </div>
           </div>
